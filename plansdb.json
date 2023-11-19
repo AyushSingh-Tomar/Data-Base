@@ -1,0 +1,156 @@
+{
+    "Plan-category":[
+        {
+            "id":1,
+            "name":"Personal Profile website",
+            "description":"Get a profile website for your personal usage"
+
+        },
+        {
+            "id":2,
+            "name":"Business/services website",
+            "description":"Get a profile website for your services or business , give it wings and let it touch the heights "
+
+        }
+
+    ],
+
+    "Base-plan":[
+        {
+            "id":1,
+            "plan-id":"1",
+            "name":"Ready-Made templates",
+            "Base_price":"500",
+            "description":"Choose among huge range of ready-made templates"
+
+        },
+        {
+            "id":2,
+            "plan-id":"1",
+            "name":"Customizable templates",
+            "Base_price":"1500",
+            "description":"Choose any template and get it customized it into your dream website "
+
+        },
+        {
+            "id":3,
+            "plan-id":"1",
+            "name":"Specialized templates",
+            "Base_price":"2000",
+            "description":"Didn't got what you were looking for ? , well direct our designers and get your very own design into real world!"
+
+        },
+        {
+            "id":1,
+            "plan-id":"2",
+            "name":"Ready-Made templates",
+            "Base_price":"500",
+            "description":"Choose among huge range of ready-made templates"
+
+        },
+        {
+            "id":2,
+            "plan-id":"2",
+            "name":"Customizable templates",
+            "Base_price":"1500",
+            "description":"Choose any template and get it customized it into your dream website "
+
+        },
+        {
+            "id":3,
+            "plan-id":"2",
+            "name":"Specialized templates",
+            "Base_price":"2000",
+            "description":"Didn't got what you were looking for ? , well direct our designers and get your very own design into real world!"
+
+        }
+
+    ],
+
+    "Addons":[
+        {
+            "id":1,
+            "name":"General templates",
+            "Base_id":"1",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        },
+        {
+            "id":2,
+            "name":"Platinum templates",
+            "Base_id":"1",
+            "item1":"Animation",
+            "item2":"Effects",
+            "item3":"Transition",
+            "item4":"Splash screen",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        },
+        {
+            "id":1,
+            "name":"General templates",
+            "Base_id":"2",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        },
+        {
+            "id":2,
+            "name":"Platinum templates",
+            "Base_id":"2",
+            "item1":"Animation",
+            "item2":"Effects",
+            "item3":"Transition",
+            "item4":"Splash screen",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        },
+        {
+            "id":1,
+            "name":"General templates",
+            "Base_id":"3",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        },
+        {
+            "id":2,
+            "name":"Platinum templates",
+            "Base_id":"3",
+            "item1":"Animation",
+            "item2":"Effects",
+            "item3":"Transition",
+            "item4":"Splash screen",
+            "item5":"Color combination",
+            "item6":"Positioning of sections",
+            "item7":"Fonts style/size",
+            "item8":"Image/if highly styled",
+            "item9":"Icon styles",
+            "item10":"elements , like navigation bar etc."
+
+        }
+    ]
+}
